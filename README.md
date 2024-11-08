@@ -1,6 +1,3 @@
-# Cadastro de Livros - API com FastAPI
-Este projeto implementa uma API simples para o cadastro de livros, utilizando FastAPI e SQLite. A API permite realizar operações básicas de CRUD (Criar, Ler, Atualizar e Excluir) em uma tabela de livros, com as colunas id, nome, autor e páginas.
-
   <h1>Cadastro de Livros - API com FastAPI</h1>
   <p>Este projeto implementa uma API simples para o cadastro de livros, utilizando FastAPI e SQLite. A API permite realizar operações básicas de CRUD (Criar, Ler, Atualizar e Excluir) em uma tabela de livros, com as colunas <strong>id</strong>, <strong>nome</strong>, <strong>autor</strong> e <strong>páginas</strong>.</p>
 
