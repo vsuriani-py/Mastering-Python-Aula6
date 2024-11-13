@@ -16,7 +16,7 @@
       <li><strong>Uvicorn</strong>: Servidor ASGI para rodar a aplicação.</li>
       <li><strong>SQLAlchemy</strong>: ORM para comunicação com o banco de dados SQLite.</li>
       <li><strong>Pydantic</strong>: Para validação e serialização dos dados.</li>
-      <li><strong>SQLite</strong>: Banco de dados leve, utilizado para armazenar as informações dos livros.</li>
+      <li><strong>SQLite</strong>: Banco de dados leve, utilizado para armazenar as informações dos livros (Trocado por Dbeaver e Render).</li>
   </ul>
 
   <h2>Instalação</h2>
